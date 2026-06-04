@@ -1,13 +1,35 @@
-# 👨‍💻 Hi, I'm **kr1sscross**!
+<h1 align="left">👨‍💻 Hi, I'm kr1sscross!</h1>
 
-I'm a **Computer Science** student with a passion for both technology and art! 🎨💻
+###
 
-## 🧑‍🎓 A Little About Me
-- 📚 Currently pursuing my studies in **Computer Science**, exploring the exciting world of programming.
-- 💻 I’m working with **Python** and **Java**, always looking for new ways to apply my skills to interesting projects.
-- 🎨 When I’m not coding, you’ll find me immersed in the world of **art**, where I love to express creativity in different forms.
+<p align="left">🎨 Turning ideas into code and creativity into expression.</p>
 
-Feel free to explore my repositories and connect with me! 🌱
+###
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h2 align="left">🧑‍🎓 About Me</h2>
+
+###
+
+<p align="left">📚 Computer Science student with a growing interest in machine learning, artificial intelligence, and software development.<br><br>💻 Working mainly with Python and Java, constantly exploring new technologies and building projects that challenge me to learn and improve.<br><br>🎨 Beyond coding, I enjoy creating art and exploring visual creativity, finding inspiration in both structured logic and artistic expression.</p>
+
+###
+
+<h2 align="left">💻 Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
