@@ -1,16 +1,12 @@
-<h1 align="left">👨‍💻 Hi, I'm kr1sscross!</h1>
+<h1 align="left">👨‍💻 Hi, I'm kr1sscross.</h1>
 
 ###
 
-<p align="left">🎨 Turning ideas into code and creativity into expression.</p>
-
-###
-
-<h2 align="left">🧑‍🎓 About Me</h2>
-
-###
-
-<p align="left">📚 Computer Science student with a growing interest in machine learning, artificial intelligence, and software development.<br><br>💻 Working mainly with Python and Java, constantly exploring new technologies and building projects that challenge me to learn and improve.<br><br>🎨 Beyond coding, I enjoy creating art and exploring visual creativity, finding inspiration in both structured logic and artistic expression.</p>
+<p align="left">
+  📚 Computer Science student with a growing interest in machine learning, artificial intelligence, and software development.<br><br>
+  💻 Mainly working with Python, with some experience in Java. Continuously developing my skills in machine learning and AI while building projects and exploring new technologies.<br><br>
+  🎨 Into art, geography & Formula 1.
+</p>
 
 ###
 
